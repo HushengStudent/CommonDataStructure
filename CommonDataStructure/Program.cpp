@@ -3,10 +3,12 @@
 
 using namespace std;
 
+
 void main()
 {
 	cout << "test";
 	system("pause");
 	return;
 }
+
 
