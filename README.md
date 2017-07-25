@@ -5,4 +5,4 @@ software：visual studio2013.
 
 progress：
 
-1、链表。
+1、链表
