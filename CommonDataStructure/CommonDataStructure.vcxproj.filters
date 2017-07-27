@@ -31,6 +31,12 @@
     <Filter Include="头文件\003Stack">
       <UniqueIdentifier>{2d505652-5ebf-4d29-8a99-7fd41961d32c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\004Queue">
+      <UniqueIdentifier>{938edde0-6d96-4142-9974-3d58642733e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\004Queue">
+      <UniqueIdentifier>{23c354e9-ff9c-46b4-9f72-5b2c8fad4438}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Test.cpp">
@@ -45,6 +51,9 @@
     <ClCompile Include="Stack.cpp">
       <Filter>源文件\003Stack</Filter>
     </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>源文件\004Queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Test.h">
@@ -55,6 +64,9 @@
     </ClInclude>
     <ClInclude Include="Stack.h">
       <Filter>头文件\003Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>头文件\004Queue</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

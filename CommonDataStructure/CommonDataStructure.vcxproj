@@ -80,11 +80,13 @@
   <ItemGroup>
     <ClCompile Include="LinkList.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Queue.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkList.h" />
+    <ClInclude Include="Queue.h" />
     <ClInclude Include="Stack.h" />
     <ClInclude Include="Test.h" />
   </ItemGroup>

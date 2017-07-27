@@ -1,5 +1,5 @@
 /*
-ջ;
+栈;
 */
 #include <iostream>
 #include <stdlib.h>
