@@ -25,6 +25,12 @@
     <Filter Include="源文件\002LinkList">
       <UniqueIdentifier>{2ecbd9f5-9fc9-4da9-8410-9019904f9dc9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\003Stack">
+      <UniqueIdentifier>{98d9bb47-297c-4414-883a-493208734f7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\003Stack">
+      <UniqueIdentifier>{2d505652-5ebf-4d29-8a99-7fd41961d32c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Test.cpp">
@@ -36,6 +42,9 @@
     <ClCompile Include="LinkList.cpp">
       <Filter>源文件\002LinkList</Filter>
     </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>源文件\003Stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Test.h">
@@ -43,6 +52,9 @@
     </ClInclude>
     <ClInclude Include="LinkList.h">
       <Filter>头文件\002LinkList</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>头文件\003Stack</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
