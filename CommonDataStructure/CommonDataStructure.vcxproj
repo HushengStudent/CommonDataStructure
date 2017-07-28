@@ -80,6 +80,7 @@
   <ItemGroup>
     <ClCompile Include="BinarySearchTree.cpp" />
     <ClCompile Include="BinaryTree.cpp" />
+    <ClCompile Include="Graph.cpp" />
     <ClCompile Include="LinkList.cpp" />
     <ClCompile Include="Program.cpp" />
     <ClCompile Include="Queue.cpp" />
@@ -88,6 +89,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryTree.h" />
+    <ClInclude Include="GraphLine.h" />
+    <ClInclude Include="GraphNode.h" />
     <ClInclude Include="LinkList.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="Stack.h" />

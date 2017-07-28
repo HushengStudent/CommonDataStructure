@@ -46,6 +46,12 @@
     <Filter Include="源文件\006BinarySearchTree">
       <UniqueIdentifier>{8129272b-f5f3-415b-a011-4f6cc4fca2b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\007Graph">
+      <UniqueIdentifier>{2f08782b-3e9f-4fa0-8322-383455656e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\007Graph">
+      <UniqueIdentifier>{d66dfa91-134d-4685-af00-c391a20ddc2f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Test.cpp">
@@ -69,6 +75,9 @@
     <ClCompile Include="BinarySearchTree.cpp">
       <Filter>源文件\006BinarySearchTree</Filter>
     </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>源文件\007Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Test.h">
@@ -85,6 +94,12 @@
     </ClInclude>
     <ClInclude Include="BinaryTree.h">
       <Filter>头文件\005BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphNode.h">
+      <Filter>头文件\007Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphLine.h">
+      <Filter>头文件\007Graph</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
