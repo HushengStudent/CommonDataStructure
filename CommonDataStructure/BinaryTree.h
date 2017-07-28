@@ -24,6 +24,8 @@ public:
 
 	void DeleteTree(BinaryTreeNode *rootNode);
 
+	BinaryTreeNode* FindNodeInBinarySearchTree(int value, BinaryTreeNode *rootNode);
+
 private:
 
 };

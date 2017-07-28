@@ -43,6 +43,9 @@
     <Filter Include="源文件\005BinaryTree">
       <UniqueIdentifier>{cb624a04-e9c4-4fbb-9633-159e01101f58}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\006BinarySearchTree">
+      <UniqueIdentifier>{8129272b-f5f3-415b-a011-4f6cc4fca2b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Test.cpp">
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="BinaryTree.cpp">
       <Filter>源文件\005BinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchTree.cpp">
+      <Filter>源文件\006BinarySearchTree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
