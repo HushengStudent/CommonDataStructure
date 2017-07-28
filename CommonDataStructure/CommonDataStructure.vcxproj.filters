@@ -37,6 +37,12 @@
     <Filter Include="源文件\004Queue">
       <UniqueIdentifier>{23c354e9-ff9c-46b4-9f72-5b2c8fad4438}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\005BinaryTree">
+      <UniqueIdentifier>{46eb1869-0ba3-4763-8d0a-cfaf56ac0663}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\005BinaryTree">
+      <UniqueIdentifier>{cb624a04-e9c4-4fbb-9633-159e01101f58}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Test.cpp">
@@ -54,6 +60,9 @@
     <ClCompile Include="Queue.cpp">
       <Filter>源文件\004Queue</Filter>
     </ClCompile>
+    <ClCompile Include="BinaryTree.cpp">
+      <Filter>源文件\005BinaryTree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Test.h">
@@ -67,6 +76,9 @@
     </ClInclude>
     <ClInclude Include="Queue.h">
       <Filter>头文件\004Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>头文件\005BinaryTree</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

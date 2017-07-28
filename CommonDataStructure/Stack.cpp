@@ -1,6 +1,3 @@
-/*
-栈;
-*/
 #include <iostream>
 #include <stdlib.h>
 #include "Stack.h"

@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
     <ClCompile Include="LinkList.cpp" />
     <ClCompile Include="Program.cpp" />
     <ClCompile Include="Queue.cpp" />
@@ -85,6 +86,7 @@
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="LinkList.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="Stack.h" />
